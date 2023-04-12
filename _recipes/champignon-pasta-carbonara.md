@@ -1,6 +1,7 @@
 ---
 layout: post #Change to recipe
 title: Champignon pasta carbonara
+short-description: Linguine pasta with champignons, pecorino cheese, and freshly ground black pepper.
 ---
 
 # Champignon pasta carbonara
